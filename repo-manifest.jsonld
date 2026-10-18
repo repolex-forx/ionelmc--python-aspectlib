@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ionelmc/python-aspectlib/commit/52092d5e8ee86705c0cad9f9b510dcedabbdc46f",
       "git:hexsha": "52092d5e8ee86705c0cad9f9b510dcedabbdc46f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T05:30:45.261524+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ionelmc/python-aspectlib/commit/c2d999f599756e7aa0215402b8181df30aff7c09",
