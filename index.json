@@ -1,0 +1,11 @@
+{
+  "org": "ionelmc",
+  "repo": "python-aspectlib",
+  "versions": [
+    {
+      "commit": "52092d5e8ee86705c0cad9f9b510dcedabbdc46f",
+      "tag": "",
+      "parsed_at": "2026-10-18T05:30:45.262104+00:00"
+    }
+  ]
+}
